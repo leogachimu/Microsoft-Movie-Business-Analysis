@@ -1,10 +1,21 @@
-# Phase 1 Project
+# MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+![Scenic view of Hollywood](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/14d65c79-e38e-4d71-abe6-152fa8756d61)
+The US film industry is the oldest film industry in the world and also the largest in terms of revenue. In 2019, the box office revenue for the USA and Canada was $11.4 billion, a little over 27% of the worldwide revenue of $42.2 billion.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+Research also shows that 14% of American watch movies in cinema halls once a month and 46% of adults watch a movie in a cinema hall at least once a year.
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+The US cinema industry is expected to grow at a Compound Annual Growth Rate (CAGR) of 8.3% by the year 2027 and these are all indicators of a profitable and growing industry that Microsoft can venture into.
+
+Here's deal;
+
+Microsoft is not a company that jumps into what everyone else is doing.
+
+There has to be vision, relevant data, analysis of the data, and data-driven strategy.
+
+This is what this report is all about.
+
+I don’t want to overpromise, but I hope you will see good use of data cleaning, munging, visualization, and interpretation to tell a story that can make a real difference to Microsoft’s portfolio.
 
 ## Project Overview
 
