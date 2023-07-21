@@ -1,5 +1,5 @@
 # MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
-
+## PROJECT DONE BY: LEONARD MWANGI GACHIMU
 ![Scenic view of Hollywood](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/14d65c79-e38e-4d71-abe6-152fa8756d61)
 The US film industry is the oldest film industry in the world and also the largest in terms of revenue. In 2019, the box office revenue for the USA and Canada was $11.4 billion, a little over 27% of the worldwide revenue of $42.2 billion.
 
