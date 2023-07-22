@@ -1,7 +1,8 @@
 # MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
 ## PROJECT DONE BY: LEONARD MWANGI GACHIMU
 ![Scenic view of Hollywood](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/14d65c79-e38e-4d71-abe6-152fa8756d61)
-The US film industry is the oldest film industry in the world and also the largest in terms of revenue. In 2019, the box office revenue for the USA and Canada was $11.4 billion, a little over 27% of the worldwide revenue of $42.2 billion.
+## FILM INDUSTRY OVERVIEW
+The US film industry aka Hollywood, is the oldest film industry in the world and also the largest in terms of revenue. In 2019, the box office revenue for the USA and Canada was $11.4 billion, a little over 27% of the worldwide revenue of $42.2 billion.
 
 Research also shows that 14% of American watch movies in cinema halls once a month and 46% of adults watch a movie in a cinema hall at least once a year.
 
@@ -15,31 +16,63 @@ There has to be vision, relevant data, analysis of the data, and data-driven str
 
 This is what this report is all about.
 
-I don’t want to overpromise, but I hope you will see good use of data cleaning, munging, visualization, and interpretation to tell a story that can make a real difference to Microsoft’s portfolio.
+## PROJECT OVERVIEW
 
-## Project Overview
+In this project, I used my data science skills to extract, explore, clean, wrangle, visualize, and interpret the data relevant to helping Microsoft set up a successful movie studio. 
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+## BUSINESS PROBLEM
 
-### Business Problem
+Microsoft intends to set up a movie studio but they don't have prior experience in movie production. I was charged with analysing data from the movie industry and developing strategic and actionable insights into the type of films they should produce, the competition, and the talent they should hire. 
+![Steven Spielberg winning Oscar Awards](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59)
+                                                              Oscar Awards here we come
+## PROJECT SCOPE
+1. To find out the most popular genres based on the total number of movies produced.
+2. To find out the most popular genres based on the IMDB Top 250 Movies.
+3. To evaluate content gaps between what every movie studio is producing and the genres that are winning the Top 250 rating.
+4. To find out the most profitable genres or genre groups.
+5. Competitor analysis of the most profitable movie studios in 2019.
+6. To find out the top 15 best-performing movie directors.
+7. To find out the top 15 most profitable movie directors.
+8. To analyse the correlation between productivity (number of top-rated movies directed) and profitability of a movie director.
+## THE DATASETS USED
+For this project, I used the following datasets:
+i.) imdb.title.basics.csv - provided
+This dataset was obtained from the IMDb database of all movies in 2019.
+ii.) movies.csv - downloaded from [Kaggle](https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies)
+iii.) bom.movie_gross.csv - provided
+iv.) tn.movie_budgets.csv - provided
+v.) BOM_1000_movies_df - scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW)
+## METHODOLOGY
+Execution of the project involved the following:
+### Data Understanding
+I explored the datasets to understand their schema, size, data types, and examine the presence of invalid or inconsistent data such as missing values, duplicates, placeholders, and outliers.
+### Data Analysis
+I transformed the data into DataFrames using the Pandas library in Python and I performed different transformations and analyses to suit my goals.
+### Data Visualization
+I used various visualization methods such as bar plots, histogram, and scatter plot to display my findings and facilitate interpretation.
+### Data Interpretation
+I interpreted the various findings and visualizations to build a recommendation for Microsoft.
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-
-### The Data
-
-In the folder `zippedData` are movie datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+## THE FINDINGS
+1. I found out that the most popular genres based on the number of movies produced (movie data from IMDb database), include:
+   - Documentary
+   - Drama
+   - Comedy
+   - Thriller
+   - Horror and
+   - Action
+![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)
+2. The most popular genres based on the IMDb Top 250 Movies include:
+   - Drama
+   - Adventure
+   - Crime
+   - Action
+   - Comedy
+   - Mystery
+![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)
+3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
+![Genre Distribution Based on Two Differet Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/6955a35d-5cac-4fc1-93d6-7e12bc4aa33e)
+4. 
 
 ## Deliverables
 
