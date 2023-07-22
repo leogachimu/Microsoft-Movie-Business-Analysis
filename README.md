@@ -61,6 +61,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Thriller
    - Horror and
    - Action
+     
 ![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)
 2. The most popular genres based on the IMDb Top 250 Movies include:
    - Drama
@@ -72,7 +73,9 @@ I interpreted the various findings and visualizations to build a recommendation 
      
 ![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
-![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/f0c9bf05-8908-4403-87cd-16bc0676eb7a)
+
+![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5b0b30a3-a15b-4d64-b6d6-3556955553d4)
+
 4. The top 5 most profitable genres or genre groups are:
 
    i. Action, Adventure & Sci-Fi - approx. $22.05 billion
