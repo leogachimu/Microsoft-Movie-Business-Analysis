@@ -63,6 +63,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Action
      
 ![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)
+
 2. The most popular genres based on the IMDb Top 250 Movies include:
    - Drama
    - Adventure
@@ -72,9 +73,11 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Mystery
      
 ![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)
+
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
 
-![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5b0b30a3-a15b-4d64-b6d6-3556955553d4)
+![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5f5aa7e9-affb-4294-80c3-9ec39afb0808)
+
 
 4. The top 5 most profitable genres or genre groups are:
 
@@ -83,8 +86,10 @@ I interpreted the various findings and visualizations to build a recommendation 
    iii. Action, Adventure & Fantasy - approx. $7.264 billion
    iv. Action, Adventure & Comedy - approx. $5.662 billion
    v. Drama - approx. $5.307 billion
+
 ![Profit Distribution of Top Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/d5b42053-9e3f-49ba-b678-29610ca272ff)
-5. The top 5 most profitable movie studios are:
+
+6. The top 5 most profitable movie studios are:
 
    i. BV (Buena Vista Studios) - approx. $23.835 billion
    ii. Uni. (Universal Studios) - approx. $20.732 billion
@@ -92,7 +97,8 @@ I interpreted the various findings and visualizations to build a recommendation 
    iv. WB (Warners Bros) - $13.996 billion
    v. Sony - $12.551 billion
    
-![Profit Distribution of Major Studios in the Movie Industry](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/edc3dc49-8c4c-4048-801b-ccfca350c4a9)
+![Profit Distribution of Major Studios in the Movie Industry](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/edc3dc49-8c4c-4048-801b-ccfca350c4a9
+
 7. The most productive movie directors include:
 
    i. Christopher Nolan	- 7 top-rated movies
