@@ -103,10 +103,14 @@ I interpreted the various findings and visualizations to build a recommendation 
    iv. Anthony Russo - approx. $2.212 billion
    v. Joe Russo - approx. $2.212 billion
 
-![Most Profitable Directors in IMDb Top 250 Movies List](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c7a841ab-9259-42e0-bd40-2d3dc286cdaa)
+![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb)
+
 
 9. The correlation between productivity (number of top-rated movies directed) and profitability of a movie director is about 0.6630.
 This indicates a moderate correlation and therefore, there is a moderate likelihood that a director with a high number of movies may direct a movie that realizes a high profit margin.
+
+![Number of Movies Vs Total Profit for Top-Rated Movie Directors](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/1d349910-dfb5-413b-a377-2cd2ae33aaaf)
+
 
 # CONCLUSION
 The box office revenue runs into the billions of dollars and is expected to continue growing at an annual rate of 8.3% up to 2027.
