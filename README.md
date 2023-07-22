@@ -69,10 +69,12 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Action
    - Comedy
    - Mystery
+     
 ![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
 ![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/f0c9bf05-8908-4403-87cd-16bc0676eb7a)
 4. The top 5 most profitable genres or genre groups are:
+
    i. Action, Adventure & Sci-Fi - approx. $22.05 billion
    ii. Adventure, Animation & Comedy - approx. $19.842 billion
    iii. Action, Adventure & Fantasy - approx. $7.264 billion
@@ -80,6 +82,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    v. Drama - approx. $5.307 billion
 ![Profit Distribution of Top Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/d5b42053-9e3f-49ba-b678-29610ca272ff)
 5. The top 5 most profitable movie studios are:
+
    i. BV (Buena Vista Studios) - approx. $23.835 billion
    ii. Uni. (Universal Studios) - approx. $20.732 billion
    iii. Fox Studios - $19.040 billion
@@ -88,6 +91,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    
 ![Profit Distribution of Major Studios in the Movie Industry](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/edc3dc49-8c4c-4048-801b-ccfca350c4a9)
 7. The most productive movie directors include:
+
    i. Christopher Nolan	- 7 top-rated movies
    ii. Steven Spielberg - 7 top-rated movies
    iii. Martin Scorsese - 7 top-rated movies
@@ -97,11 +101,13 @@ I interpreted the various findings and visualizations to build a recommendation 
 ![Most Productive Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/cd7494bf-2332-4f71-8716-ecfaf200da86)
 
 8. The most profitable movie directors include:
+
    i. Steven Spielberg - approx. $3.327 billion
    ii. Christopher Nolan - approx. $3.195 billion
    iii. Peter Jackson - approx. $2.713 billion
-   iv. Anthony Russo - approx. $2.212 billion
-   v. Joe Russo - approx. $2.212 billion
+   iv. Lee Unkrich - approx. $1.446 billion
+   iv. Anthony Russo - approx. $1.222 billion
+   v. Joe Russo - approx. $1.222 billion
 
 ![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb)
 
