@@ -123,7 +123,7 @@ However, I could not afford the Statistica data about home/mobile video entertai
 
 
 # RECOMMENDATIONS
-and therefore Microsoft would make the right decision to venture into the film industry.
+People across America are still going to watch movies in cinema halls and therefore Microsoft has made the right decision to venture into the film industry.
 
 
 ## Deliverables
