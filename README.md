@@ -49,7 +49,7 @@ I explored the datasets to understand their schema, size, data types, and examin
 ### Data Analysis
 I transformed the data into DataFrames using the Pandas library in Python and I performed different transformations and analyses to suit my goals.
 ### Data Visualization
-I used various visualization methods such as bar plots, histogram, and scatter plot to display my findings and facilitate interpretation.
+I used various visualization methods such as bar plots, histograms, and scatter plots to display my findings and facilitate interpretation.
 ### Data Interpretation
 I interpreted the various findings and visualizations to build a recommendation for Microsoft.
 
@@ -71,8 +71,23 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Mystery
 ![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
-![Genre Distribution Based on Two Differet Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/6955a35d-5cac-4fc1-93d6-7e12bc4aa33e)
-4. 
+![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/f0c9bf05-8908-4403-87cd-16bc0676eb7a)
+4. The top 5 most profitable genres or genre groups are:
+   i. Action, Adventure & Sci-Fi
+   ii. Adventure, Animation & Comedy
+   iii. Action, Adventure & Fantasy
+   iv. Action, Adventure & Comedy
+   v. Drama
+![Profit Distribution of Top Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/d5b42053-9e3f-49ba-b678-29610ca272ff)
+5. The top 5 most profitable movie studios are:
+   i. BV (Buena Vista Studios)
+   ii. Uni. (Universal Studios)
+   iii. Fox Studios
+   iv. WB (Warners Bros)
+   v. Sony 
+![Profit Distribution of Major Studios in the Movie Industry](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/edc3dc49-8c4c-4048-801b-ccfca350c4a9)
+
+
 
 ## Deliverables
 
