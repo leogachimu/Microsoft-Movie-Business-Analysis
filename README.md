@@ -1,4 +1,4 @@
-# MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
+![image](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/7605781b-b96b-4236-b51a-ad56194f45a0)# MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
 ## PROJECT DONE BY: LEONARD MWANGI GACHIMU
 ![Scenic view of Hollywood](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/14d65c79-e38e-4d71-abe6-152fa8756d61)
 ## FILM INDUSTRY OVERVIEW
@@ -8,7 +8,7 @@ Research also shows that 14% of American watch movies in cinema halls once a mon
 
 The US cinema industry is expected to grow at a Compound Annual Growth Rate (CAGR) of 8.3% by the year 2027 and these are all indicators of a profitable and growing industry that Microsoft can venture into.
 
-Here's deal;
+Here's the deal;
 
 Microsoft is not a company that jumps into what everyone else is doing.
 
@@ -34,6 +34,7 @@ Microsoft intends to set up a movie studio but they don't have prior experience 
 6. To find out the top 15 best-performing movie directors.
 7. To find out the top 15 most profitable movie directors.
 8. To analyse the correlation between productivity (number of top-rated movies directed) and profitability of a movie director.
+   
 ## THE DATASETS USED
 For this project, I used the following datasets:
 i.) imdb.title.basics.csv - provided
@@ -42,6 +43,7 @@ ii.) movies.csv - downloaded from [Kaggle](https://www.kaggle.com/datasets/ashis
 iii.) bom.movie_gross.csv - provided
 iv.) tn.movie_budgets.csv - provided
 v.) BOM_1000_movies_df - scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW)
+
 ## METHODOLOGY
 Execution of the project involved the following:
 ### Data Understanding
@@ -76,7 +78,7 @@ I interpreted the various findings and visualizations to build a recommendation 
 
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
 
-![Genre Distribution Based on Two Different Datasets](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5f5aa7e9-affb-4294-80c3-9ec39afb0808)
+![Top Genres Based on Number of Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/464ed0be-2148-4e83-84f5-707450e4c140)
 
 
 4. The top 5 most profitable genres or genre groups are:
@@ -87,9 +89,10 @@ I interpreted the various findings and visualizations to build a recommendation 
    iv. Action, Adventure & Comedy - approx. $5.662 billion
    v. Drama - approx. $5.307 billion
 
-![Profit Distribution of Top Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/d5b42053-9e3f-49ba-b678-29610ca272ff)
+![Top 5 Most Profitable Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/ee9ba833-4436-4485-939d-7b34c969f20c)
 
-6. The top 5 most profitable movie studios are:
+
+5. The top 5 most profitable movie studios are:
 
    i. BV (Buena Vista Studios) - approx. $23.835 billion
    ii. Uni. (Universal Studios) - approx. $20.732 billion
@@ -97,9 +100,10 @@ I interpreted the various findings and visualizations to build a recommendation 
    iv. WB (Warners Bros) - $13.996 billion
    v. Sony - $12.551 billion
    
-![Profit Distribution of Major Studios in the Movie Industry](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/edc3dc49-8c4c-4048-801b-ccfca350c4a9
+![Top 5 Most Profitable Movie Studios](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5c49be67-147c-4dca-a4e7-2dd72ef3bf27)
 
-7. The most productive movie directors include:
+
+6. The most productive movie directors include:
 
    i. Christopher Nolan	- 7 top-rated movies
    ii. Steven Spielberg - 7 top-rated movies
@@ -109,7 +113,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    
 ![Most Productive Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/cd7494bf-2332-4f71-8716-ecfaf200da86)
 
-8. The most profitable movie directors include:
+7. The most profitable movie directors include:
 
    i. Steven Spielberg - approx. $3.327 billion
    ii. Christopher Nolan - approx. $3.195 billion
@@ -121,13 +125,13 @@ I interpreted the various findings and visualizations to build a recommendation 
 ![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb)
 
 
-9. The correlation between productivity (number of top-rated movies directed) and profitability of a movie director is about 0.6630.
+8. The correlation between productivity (number of top-rated movies directed) and profitability of a movie director is about 0.6630.
 This indicates a moderate correlation and therefore, there is a moderate likelihood that a director with a high number of movies may direct a movie that realizes a high profit margin.
 
 ![Number of Movies Vs Total Profit for Top-Rated Movie Directors](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/1d349910-dfb5-413b-a377-2cd2ae33aaaf)
 
 
-# CONCLUSION
+## CONCLUSION
 The box office revenue runs into the billions of dollars and is expected to continue growing at an annual rate of 8.3% up to 2027.
 
 It's evident that some genres are more popular than others, with Documentary, Drama, and Comedy each having more than twice the number of movies in any of the other genres. However, a comparison with the genre distribution among IMDb's Top 250 movies list shows that genres such as Adventure, Crime, and Action are popular but not crowded by producers.
@@ -136,51 +140,46 @@ Movies that fit the genres of Action, Adventure & Sci-Fi led the pack with a tot
 
 The three most profitable movie studios are BV (Buena Vista Studios), Uni. (Universal Studios), and Fox Studios, each raking in about 20 billion dollars in profits. All studios below position 10 made less than 2 billion dollars (less than 10% of the 2 top ranking studios), which shows the dominance of BV (Buena Vista Studios), and Uni. (Universal Studios).
 
-Some movie directors are more productive and/or profitable than others, but the correlation between productivity and profitability is about 0.6630, indicating a moderate correlation. 
+Some movie directors are more productive and/or profitable than others, but the correlation between productivity and profitability is about 0.6630, indicating a moderate correlation.
 
-# LIMITATIONS
-1. I could not determine statistically, the correlation between a genre's popularity and its profitability. This is because most movies fit into multiple genres and in such cases, I could not determine what proportion of a movie's profit can be attributed to a certain genre. I, therefore, analysed the genre-group's profitability as they were, while for popularity, it was possible to split genre groups into separate genres and analyse them separately.
-2. A movie’s box office profitability is not simply the difference between the gross revenue and production budget. Research on the Hollywood film industry shows on average, the exhibitor takes nearly half of the gross revenue, and the distributor also takes a cumulative percentage known as ‘distributor rentals’. These ‘cuts’ vary from movie to movie and tend to be higher when a movie is new.
-This data was not available, and I computed a movie's profit by simply subtracting the production budget from the worldwide gross revenue.
-3. I could not scrape the most up-to-date data from some websites because they required costly subscription plans. These include [IMDb](https://www.imdb.com/) and [Statistica](https://www.statista.com/). Therefore, I had to rely on whatever data I could find on Kaggle. Luckily, for the IMDb Top 250 Movies, I found data on Kaggle dated January 2023.
-4. The [home and mobile video entertainment revenue has by far surpassed the box office revenue](https://www.statista.com/statistics/1194522/box-office-home-and-mobile-video-entertainment-revenue-worldwide/).
-However, I could not afford the Statistica data about home/mobile video entertainment (Over-the-Top Platforms) market worldwide from 2015 to 2021, so my analysis cannot provide Microsoft with data-driven advice on whether they should focus more on theatre distribution or streaming of their movies.
+## MOVIE STUDIO BUSINESS STRATEGY RECOMMENDATIONS FOR MICROSOFT
+1)	Microsoft shouldn’t jump into what everyone is doing, whether they’re succeeding or not.
+   
+2)	I recommend Drama, Adventure, Crime, Action, and Comedy as the best 5 	genres for Microsoft as a beginner studio.
+   
+3)	Competitor analysis reveals that the market has a few dominant studios. I, therefore, urge Microsoft to conduct further analysis of these top studios, including their technology, marketing strategies, and SWOT analysis.
+    
+4)	Further analysis of BV Studio shows that it made an average profit of about $567 million per genre. Microsoft should target at least $600 million per genre.
+   
+5)	When it comes to hiring the best talent, Microsoft should focus more on hunting down the best director the world can offer and seek their advice on hiring the rest of the team.
+   
+6)	The correlation between productivity and profitability of a movie is moderate. Microsoft should engage any of the most profitable directors, regardless of the number of movies they have directed.
+   
+7)	I recommend the following movie directors: Steven Spielberg, Christopher Nolan, Peter Jackson, Lee Unkrich, Anthony Russo, and Joe Russo.
 
+## STUDY LIMITATIONS
+1) I could not determine statistically, the correlation between a genre's popularity and its profitability.
+   
+2) Data about exhibitor rates and distributor rentals was not available, so I computed a movie's profit by simply subtracting the production budget from the worldwide gross revenue.
+   
+3) I could not scrape the most up-to-date data from some websites because they required costly subscription plans.
 
-# RECOMMENDATIONS
-People across America are still going to watch movies in cinema halls and therefore Microsoft has made the right decision to venture into the film industry.
+4) The home and mobile video entertainment revenue has by far surpassed the box office revenue. However, I could not afford the Statistica data about home/mobile video entertainment.
+   
+## RECOMMENDATIONS FOR FUTURE ANALYSIS
+1) Future studies should come up with a criterion or data for computing a list of the most profitable single genres.
+   
+2) Analysis should be done on the latest data on home/mobile video entertainment (Over-the-Top Platforms) market.
+   
+3) Accurate data about exhibitor rates and distributor rentals should be sought, to enable computation of the accurate profit per movie, genre, studio, or director.
+   
+4) To find the correlation between a movie’s rating on IMDb and other ranking websites such as Rotten Tomatoes and The Numbers.
 
-
-## Deliverables
-
+## PROJECT DELIVERABLES
 There are three deliverables for this project:
-
 * A **GitHub repository**
 * A **Jupyter Notebook**
 * A **non-technical presentation**
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
 
-### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
