@@ -26,8 +26,9 @@ In this project, I used my data science skills to extract, explore, clean, wrang
 
 Microsoft intends to set up a movie studio but they don't have prior experience in movie production. I was charged with analysing data from the movie industry and developing strategic and actionable insights into the type of films they should produce, the competition, and the talent they should hire. 
                                                               
- <p align="center"><img src="https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59" width="540" height="304"></p> 
-                                                          <p align="center">***Oscar Awards here we come***</p> 
+<img src="https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59" width="540" height="304"> 
+                                                          <p align="center">***Oscar Awards here we come***</p>
+                                                          
 ## PROJECT SCOPE
 1. To find out the most popular genres based on the total number of movies produced.
 2. To find out the most popular genres based on the IMDB Top 250 Movies.
@@ -68,7 +69,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Horror and
    - Action
      
-<p align="center">![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)</p> 
+![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)
 
 2. The most popular genres based on the IMDb Top 250 Movies include:
    - Drama
@@ -78,7 +79,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Comedy
    - Mystery
      
-<p align="center">![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)</p> 
+![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356) 
 
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
 
@@ -95,7 +96,7 @@ I interpreted the various findings and visualizations to build a recommendation 
 <li>Drama - approx. $5.307 billion</li>
 </ol>
 
-<p align="center">![Top 5 Most Profitable Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/ee9ba833-4436-4485-939d-7b34c969f20c)</p> 
+![Top 5 Most Profitable Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/ee9ba833-4436-4485-939d-7b34c969f20c) 
 
 
 5. The top 5 most profitable movie studios are:
@@ -108,7 +109,7 @@ I interpreted the various findings and visualizations to build a recommendation 
 <li>Sony - $12.551 billion</li>
 </ol>
  
-<p align="center">![Top 5 Most Profitable Movie Studios](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5c49be67-147c-4dca-a4e7-2dd72ef3bf27)</p> 
+![Top 5 Most Profitable Movie Studios](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5c49be67-147c-4dca-a4e7-2dd72ef3bf27) 
 
 
 6. The most productive movie directors include:
@@ -121,7 +122,7 @@ I interpreted the various findings and visualizations to build a recommendation 
 <li>Stanley Kubrick	- 7 top-rated movies</li>
 </ol>
    
-<p align="center">![Most Productive Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/cd7494bf-2332-4f71-8716-ecfaf200da86)</p> 
+![Most Productive Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/cd7494bf-2332-4f71-8716-ecfaf200da86)
 
 7. The most profitable movie directors include:
 
@@ -134,13 +135,13 @@ I interpreted the various findings and visualizations to build a recommendation 
 <li>Joe Russo - approx. $1.222 billion</li>
 </ol>  
 
-<p align="center">![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb)</p> 
+![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb) 
 
 
 8. The correlation between productivity (number of top-rated movies directed) and profitability of a movie director is about 0.6630.
 This indicates a moderate correlation and therefore, there is a moderate likelihood that a director with a high number of movies may direct a movie that realizes a high profit margin.
 
-<p align="center">![Number of Movies Vs Total Profit for Top-Rated Movie Directors](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/1d349910-dfb5-413b-a377-2cd2ae33aaaf)</p> 
+![Number of Movies Vs Total Profit for Top-Rated Movie Directors](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/1d349910-dfb5-413b-a377-2cd2ae33aaaf) 
 
 
 ## CONCLUSION
