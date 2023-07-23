@@ -1,6 +1,6 @@
-![image](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/7605781b-b96b-4236-b51a-ad56194f45a0)# MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
+# MICROSOFT MOVIE STUDIO BUSINESS ANALYSIS
 ## PROJECT DONE BY: LEONARD MWANGI GACHIMU
-![Scenic view of Hollywood](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/14d65c79-e38e-4d71-abe6-152fa8756d61)
+<p align="center">![Scenic view of Hollywood](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/14d65c79-e38e-4d71-abe6-152fa8756d61)</p>
 ## FILM INDUSTRY OVERVIEW
 The US film industry aka Hollywood, is the oldest film industry in the world and also the largest in terms of revenue. In 2019, the box office revenue for the USA and Canada was $11.4 billion, a little over 27% of the worldwide revenue of $42.2 billion.
 
@@ -23,8 +23,11 @@ In this project, I used my data science skills to extract, explore, clean, wrang
 ## BUSINESS PROBLEM
 
 Microsoft intends to set up a movie studio but they don't have prior experience in movie production. I was charged with analysing data from the movie industry and developing strategic and actionable insights into the type of films they should produce, the competition, and the talent they should hire. 
-![Steven Spielberg winning Oscar Awards](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59)
-                                                              Oscar Awards here we come
+<p align="center">![Steven Spielberg winning Oscar Awards](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59) </p>
+                                                              <p align="center">Oscar Awards here we come</p> 
+                                                              
+<img src="https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59" width="540" height="304">
+
 ## PROJECT SCOPE
 1. To find out the most popular genres based on the total number of movies produced.
 2. To find out the most popular genres based on the IMDB Top 250 Movies.
@@ -37,12 +40,13 @@ Microsoft intends to set up a movie studio but they don't have prior experience 
    
 ## THE DATASETS USED
 For this project, I used the following datasets:
-i.) imdb.title.basics.csv - provided
-This dataset was obtained from the IMDb database of all movies in 2019.
-ii.) movies.csv - downloaded from [Kaggle](https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies)
-iii.) bom.movie_gross.csv - provided
-iv.) tn.movie_budgets.csv - provided
-v.) BOM_1000_movies_df - scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW)
+<ol>
+<li>i.) imdb.title.basics.csv - This dataset was obtained from the IMDb database of all movies in 2019.</li>
+<li>ii.) movies.csv - downloaded from [Kaggle](https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies)</li>
+<li>iii.) bom.movie_gross.csv - provided</li>
+<li>iv.) tn.movie_budgets.csv - provided</li>
+<li>v.) BOM_1000_movies_df - scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW)</li>
+</ol>
 
 ## METHODOLOGY
 Execution of the project involved the following:
@@ -64,7 +68,7 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Horror and
    - Action
      
-![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)
+<p align="center">![Most Popular Genres Based on Number of Movies Produced](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/29d20ac4-2207-43c2-93ee-7be2d386fa02)</p> 
 
 2. The most popular genres based on the IMDb Top 250 Movies include:
    - Drama
@@ -74,61 +78,69 @@ I interpreted the various findings and visualizations to build a recommendation 
    - Comedy
    - Mystery
      
-![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)
+<p align="center">![Most Popular Genres Based on IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/c407a0db-d33b-401e-a32d-07d22ae3c356)</p> 
 
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
 
-![Top Genres Based on Number of Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/464ed0be-2148-4e83-84f5-707450e4c140)
+<p align="center">![Top Genres Based on Number of Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/464ed0be-2148-4e83-84f5-707450e4c140)</p> 
 
 
 4. The top 5 most profitable genres or genre groups are:
 
-   i. Action, Adventure & Sci-Fi - approx. $22.05 billion
-   ii. Adventure, Animation & Comedy - approx. $19.842 billion
-   iii. Action, Adventure & Fantasy - approx. $7.264 billion
-   iv. Action, Adventure & Comedy - approx. $5.662 billion
-   v. Drama - approx. $5.307 billion
+<ol>
+<li>i. Action, Adventure & Sci-Fi - approx. $22.05 billion</li>
+<li>ii. Adventure, Animation & Comedy - approx. $19.842 billion</li>
+<li>iii. Action, Adventure & Fantasy - approx. $7.264 billion</li>
+<li>iv. Action, Adventure & Comedy - approx. $5.662 billion</li>
+<li>v. Drama - approx. $5.307 billion</li>
+</ol>
 
-![Top 5 Most Profitable Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/ee9ba833-4436-4485-939d-7b34c969f20c)
+<p align="center">![Top 5 Most Profitable Movie Genres](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/ee9ba833-4436-4485-939d-7b34c969f20c)</p> 
 
 
 5. The top 5 most profitable movie studios are:
 
-   i. BV (Buena Vista Studios) - approx. $23.835 billion
-   ii. Uni. (Universal Studios) - approx. $20.732 billion
-   iii. Fox Studios - $19.040 billion
-   iv. WB (Warners Bros) - $13.996 billion
-   v. Sony - $12.551 billion
-   
-![Top 5 Most Profitable Movie Studios](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5c49be67-147c-4dca-a4e7-2dd72ef3bf27)
+<ol>
+<li>i. BV (Buena Vista Studios) - approx. $23.835 billion</li>
+<li>ii. Uni. (Universal Studios) - approx. $20.732 billion</li>
+<li>iii. Fox Studios - $19.040 billion</li>
+<li>iv. WB (Warners Bros) - $13.996 billion</li>
+<li>v. Sony - $12.551 billion</li>
+</ol>
+ 
+<p align="center">![Top 5 Most Profitable Movie Studios](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/5c49be67-147c-4dca-a4e7-2dd72ef3bf27)</p> 
 
 
 6. The most productive movie directors include:
 
-   i. Christopher Nolan	- 7 top-rated movies
-   ii. Steven Spielberg - 7 top-rated movies
-   iii. Martin Scorsese - 7 top-rated movies
-   iv. Akira Kurosawa	- 7 top-rated movies
-   v. Stanley Kubrick	- 7 top-rated movies
+<ol>
+<li>i. Christopher Nolan	- 7 top-rated movies</li>
+<li>ii. Steven Spielberg - 7 top-rated movies</li>
+<li>iii. Martin Scorsese - 7 top-rated movies</li>
+<li>iv. Akira Kurosawa	- 7 top-rated movies</li>
+<li>v. Stanley Kubrick	- 7 top-rated movies</li>
+</ol>
    
-![Most Productive Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/cd7494bf-2332-4f71-8716-ecfaf200da86)
+<p align="center">![Most Productive Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/cd7494bf-2332-4f71-8716-ecfaf200da86)</p> 
 
 7. The most profitable movie directors include:
 
-   i. Steven Spielberg - approx. $3.327 billion
-   ii. Christopher Nolan - approx. $3.195 billion
-   iii. Peter Jackson - approx. $2.713 billion
-   iv. Lee Unkrich - approx. $1.446 billion
-   iv. Anthony Russo - approx. $1.222 billion
-   v. Joe Russo - approx. $1.222 billion
+<ol>
+<li>i. Steven Spielberg - approx. $3.327 billion</li>
+<li>ii. Christopher Nolan - approx. $3.195 billion</li>
+<li>iii. Peter Jackson - approx. $2.713 billion</li>
+<li>iv. Lee Unkrich - approx. $1.446 billion</li>
+<li>iv. Anthony Russo - approx. $1.222 billion</li>
+<li>v. Joe Russo - approx. $1.222 billion</li>
+</ol>  
 
-![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb)
+<p align="center">![Profit Distribution for Single Movie Directors in IMDb Top 250 Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/bce39aac-af86-4adc-b67c-1baed901d8eb)</p> 
 
 
 8. The correlation between productivity (number of top-rated movies directed) and profitability of a movie director is about 0.6630.
 This indicates a moderate correlation and therefore, there is a moderate likelihood that a director with a high number of movies may direct a movie that realizes a high profit margin.
 
-![Number of Movies Vs Total Profit for Top-Rated Movie Directors](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/1d349910-dfb5-413b-a377-2cd2ae33aaaf)
+<p align="center">![Number of Movies Vs Total Profit for Top-Rated Movie Directors](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/1d349910-dfb5-413b-a377-2cd2ae33aaaf)</p> 
 
 
 ## CONCLUSION
