@@ -26,7 +26,7 @@ In this project, I used my data science skills to extract, explore, clean, wrang
 
 Microsoft intends to set up a movie studio but they don't have prior experience in movie production. I was charged with analysing data from the movie industry and developing strategic and actionable insights into the type of films they should produce, the competition, and the talent they should hire. 
                                                               
-<img src="https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59" width="540" height="304"> 
+<p align="center"><img src="https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/187682bb-7c57-4223-b2ea-148343fe2d59" width="540" height="304"></p>
                                                           <p align="center">***Oscar Awards here we come***</p>
                                                           
 ## PROJECT SCOPE
@@ -83,7 +83,7 @@ I interpreted the various findings and visualizations to build a recommendation 
 
 3. The top 250 movies list is the most reliable guide for consumer trends and by plotting the two bar charts on the same figure, we can see Drama is by far the most popular genre but also one of the most crowded. Adventure, Crime, and Action are also popular but are not as crowded as Drama in terms of content.
 
-<p align="center">![Top Genres Based on Number of Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/464ed0be-2148-4e83-84f5-707450e4c140)</p> 
+![Top Genres Based on Number of Movies](https://github.com/leogachimu/Microsoft-Movie-Business-Analysis/assets/122081776/464ed0be-2148-4e83-84f5-707450e4c140)
 
 
 4. The top 5 most profitable genres or genre groups are:
