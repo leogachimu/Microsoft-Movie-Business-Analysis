@@ -129,9 +129,13 @@ This indicates a moderate correlation and therefore, there is a moderate likelih
 
 # CONCLUSION
 The box office revenue runs into the billions of dollars and is expected to continue growing at an annual rate of 8.3% up to 2027.
+
 It's evident that some genres are more popular than others, with Documentary, Drama, and Comedy each having more than twice the number of movies in any of the other genres. However, a comparison with the genre distribution among IMDb's Top 250 movies list shows that genres such as Adventure, Crime, and Action are popular but not crowded by producers.
+
 Movies that fit the genres of Action, Adventure & Sci-Fi led the pack with a total profit of about $22.05 billion. Only the first 5 genre groups exceeded $5 billion in total profits, so the dominance of certain genres is evident.
+
 The three most profitable movie studios are BV (Buena Vista Studios), Uni. (Universal Studios), and Fox Studios, each raking in about 20 billion dollars in profits. All studios below position 10 made less than 2 billion dollars (less than 10% of the 2 top ranking studios), which shows the dominance of BV (Buena Vista Studios), and Uni. (Universal Studios).
+
 Some movie directors are more productive and/or profitable than others, but the correlation between productivity and profitability is about 0.6630, indicating a moderate correlation. 
 
 # LIMITATIONS
